@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @TylerGrayStudent
+- 👀 I’m interested in programming, gaming, and Legos!
+- 🌱 I’m currently trying to become better at Rxjs, Angular, and MonoRepos.
+- 📫 How to reach me @wymn93 on twitter!
